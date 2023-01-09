@@ -18,7 +18,7 @@ stage ('deploy')
 {
 steps
 {
-echo 'hi hello'
+echo 'hello taybmcat '
 }    
    }
 
