@@ -27,6 +27,6 @@ steps
 echo 'hello release'
 }
 
-    }
+  }
     }
 }
