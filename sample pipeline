@@ -11,7 +11,7 @@ pipeline {
 {
      steps
 {
- 'clean package'
+ 'clean package1'
 }
 }
 stage ('deploy')
