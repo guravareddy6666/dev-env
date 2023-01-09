@@ -11,7 +11,7 @@ pipeline {
 {
      steps
 {
-echo 'hi iam there'
+echo 'hi iam usha love you'
 }
 }
 stage ('deploy')
