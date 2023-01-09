@@ -20,14 +20,9 @@ steps
 {
 echo 'hello taybmcat '
 }    
-stage('release')
-{
-steps
-{
-echo 'hello release'
-}
+
 
   }
     }
 }
-  }
+  
