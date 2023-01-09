@@ -11,7 +11,7 @@ pipeline {
 {
      steps
 {
-echo 'hi iam usha love you'
+mvn 'clean package'
 }
 }
 stage ('deploy')
