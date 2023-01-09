@@ -20,7 +20,7 @@ stage ('deploy')
 {
 steps
 {
-echo 'hi hello'
+echo 'hi rowdy baby'
 }    
    }
 
