@@ -13,7 +13,7 @@ pipeline {
 {
      steps
 {
-echo 'hi iam there'
+echo 'hi iam guravareddy'
 }
 }
 stage ('deploy')
